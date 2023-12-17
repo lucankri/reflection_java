@@ -1,7 +1,7 @@
 # Reflection
 
-Создания программ для изучения мощного механизма reflection.<br/>
-Reflection позволяет вносить изменения и получать информацию о классах, интерфейсах, полях и методах во время выполнения, при этом не зная имен этих классов, методов и полей.
+Creating programs to explore the powerful mechanism of reflection.
+Reflection allows you to make changes and get information about classes, interfaces, fields and methods at runtime, without knowing the names of these classes, methods and fields.
 
 
 ### Exercise 00 – Work with Classes
